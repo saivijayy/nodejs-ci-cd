@@ -67,13 +67,6 @@ Then open: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📜 Output
-
-> ![Screenshot](screenshot.png)  
-> _(Optional: Add a screenshot of the running app here)_
-
----
-
 ## 📚 What I Learned
 
 - How GitHub Actions automates CI/CD pipelines
